@@ -1,7 +1,7 @@
 
 #  Desafio Stage 03 Grid com Animações 
 
-![preview](./.github/grid-animacoes.png)
+![preview](./.github/gird_com_animacoes_english.png)
 
 
 > Trilha Explorer 
